@@ -1,6 +1,6 @@
 var students = [
   {
-    lname: "Uresti",
+    lname: "Uresti Almanza",
     name: "Obed Iñaki",
     age: 21,
     birthday: {
